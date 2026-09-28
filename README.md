@@ -1,4 +1,4 @@
-# 🧬 g25 — a terminal analyzer for Global25 coordinates
+# <img src="https://api.iconify.design/lucide/dna.svg?color=%236e7781" width="24" alt="" /> g25 — a terminal analyzer for Global25 coordinates
 
 **A fast, keyboard-driven terminal app for working with G25 (Global25) coordinates.**
 Find your closest populations, model your ancestry as a mix of sources, blend populations together, and look at the results as plots, heatmaps and maps without leaving the terminal.
@@ -47,13 +47,13 @@ Coordinates come in two variants: **scaled** (the standard one for distances and
 
 ## Features
 
-### 🔎 Distance & closest populations
+### <img src="https://api.iconify.design/lucide/search.svg?color=%236e7781" width="18" alt="" /> Distance & closest populations
 - Rank the N closest populations/individuals to any target (yours or a reference).
 - Filter by dataset (modern / ancient / custom), by name (fuzzy search), by region or country, or by time period for ancient samples.
 - Show distance as raw Euclidean or as a percentage "fit".
 - **Multi-target** mode shows the closest populations for several targets side by side.
 
-### 🧪 Admixture modelling (nMonte / Vahaduo-style)
+### <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%236e7781" width="18" alt="" /> Admixture modelling (nMonte / Vahaduo-style)
 - Model a target as a weighted mix of 2…N source populations.
 - Solves a constrained least squares problem (weights ≥ 0, sum = 1) to minimise the distance to the target. You get results in milliseconds, even with hundreds of sources.
 - **Auto-source selection**: give it a large pool and it keeps only the sources that matter.
@@ -61,19 +61,19 @@ Coordinates come in two variants: **scaled** (the standard one for distances and
 - Per-source breakdown with bars, plus a **per-PC residual view** showing which dimensions fit badly.
 - Can **aggregate** results by prefix or group (e.g. collapse `Italian_Tuscany`, `Italian_Lombardy` → `Italian`).
 
-### 🧫 Population mixing ("what if")
+### <img src="https://api.iconify.design/lucide/blend.svg?color=%236e7781" width="18" alt="" /> Population mixing ("what if")
 - Build synthetic populations from weighted components, e.g. `0.5 × Greek + 0.25 × Turkish + 0.25 × Levantine`.
 - Save them as named custom samples and use them as targets or sources anywhere in the app.
 - Average several individuals into a single group coordinate.
 
-### 📈 Visualisations (in the terminal)
+### <img src="https://api.iconify.design/lucide/chart-scatter.svg?color=%236e7781" width="18" alt="" /> Visualisations (in the terminal)
 - **PCA scatter plot** of any two PCs using braille/half-block rendering, with zoom and pan, and labels that avoid overlapping each other.
 - **Distance heatmap** between a selection of populations.
 - **Choropleth map** (world, Europe, MENA, Caucasus, South Asia, East Asia, …) coloured by distance to your target, rendered from the bundled SVG maps.
 - **Cluster tree** (dendrogram) and nearest-neighbour graph.
 - Bar charts for admixture results.
 
-### ⚡ Workflow
+### <img src="https://api.iconify.design/lucide/zap.svg?color=%236e7781" width="18" alt="" /> Workflow
 - Everything is keyboard-driven, with vim-style keys and a command palette (`:`).
 - Paste coordinates straight from the clipboard, in the same comma-separated format the web tools use.
 - Session state is saved automatically (your samples, last models, open tabs).
