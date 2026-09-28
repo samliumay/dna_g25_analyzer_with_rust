@@ -1,0 +1,16 @@
+# Rust build output
+/dna_g25_analyzer_with_rust/target/
+**/target/
+
+# Backup files from rustfmt
+**/*.rs.bk
+
+# Personal data: your own G25 coordinates and saved sessions
+/data/private/
+*.local.csv
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store

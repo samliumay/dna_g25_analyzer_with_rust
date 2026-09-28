@@ -1,0 +1,868 @@
+{
+ "Turkish_Ardahan_(n=3)": [
+  "Ardahan_TR"
+ ],
+ "Turkish_Artvin_(n=7)": [
+  "Artvin_TR"
+ ],
+ "Kurdish_Kurmanji_Turkey_Hakkari_(n=3)": [
+  "Hakkari_TR"
+ ],
+ "Turkish_Igdir_(n=5)": [
+  "Iğdir_TR"
+ ],
+ "Turkish_Van_(n=2)": [
+  "Van_TR"
+ ],
+ "Turkish_Kars_(n=4)": [
+  "Kars_TR"
+ ],
+ "Kurdish_Kurmanji_Turkey_Mardin_(n=21)": [
+  "Mardin_TR"
+ ],
+ "Turkish_Sanliurfa_(n=2)": [
+  "Sanliurfa_TR"
+ ],
+ "Turkish_Kilis_(n=1)": [
+  "Kilis_TR"
+ ],
+ "Turkish_Gaziantep_(n=19)": [
+  "Gaziantep_TR"
+ ],
+ "Turkish_Hatay_(n=13)": [
+  "Hatay_TR"
+ ],
+ "Turkish_Rize_(n=5)": [
+  "Rize_TR"
+ ],
+ "Turkish_Trabzon_(n=34)": [
+  "Trabzon_TR"
+ ],
+ "Turkish_Giresun_(n=18)": [
+  "Giresun_TR"
+ ],
+ "Turkish_Ordu_(n=30)": [
+  "Ordu_TR"
+ ],
+ "Turkish_Samsun_(n=16)": [
+  "Samsun_TR"
+ ],
+ "Turkish_Sinop_(n=11)": [
+  "Sinop_TR"
+ ],
+ "Turkish_Kastamonu_(n=24)": [
+  "Kastamonu_TR"
+ ],
+ "Turkish_Bartin_(n=8)": [
+  "Bartın_TR"
+ ],
+ "Turkish_Zonguldak_(n=17)": [
+  "Zonguldak_TR"
+ ],
+ "Turkish_Duzce_(n=4)": [
+  "Düzce_TR"
+ ],
+ "Turkish_Sakarya_(n=2)": [
+  "Sakarya_TR"
+ ],
+ "Turkish_Kocaeli_(n=5)": [
+  "Kocaeli_TR"
+ ],
+ "Turkish_Yalova_(n=1)": [
+  "Yalova_TR"
+ ],
+ "Turkish_Bursa_(n=6)": [
+  "Bursa_TR"
+ ],
+ "Turkish_Balikesir_(n=17)": [
+  "Balikesir_TR"
+ ],
+ "Turkish_Izmir_(n=9)": [
+  "Izmir_TR"
+ ],
+ "Turkish_Aydin_(n=31)": [
+  "Aydin_TR"
+ ],
+ "Turkish_Mugla_(n=12)": [
+  "Mugla_TR"
+ ],
+ "Turkish_Antalya_(n=12)": [
+  "Antalya_TR"
+ ],
+ "Turkish_Mersin_(n=19)": [
+  "Mersin_TR"
+ ],
+ "Turkish_Adana_(n=28)": [
+  "Adana_TR"
+ ],
+ "Turkish_Bolu_(n=14)": [
+  "Bolu_TR"
+ ],
+ "Turkish_Ankara_(n=27)": [
+  "Ankara_TR"
+ ],
+ "Turkish_Bilecik_(n=4)": [
+  "Bilecik_TR"
+ ],
+ "Turkish_Eskisehir_(n=9)": [
+  "Eskisehir_TR"
+ ],
+ "Turkish_Cankiri_(n=12)": [
+  "Çankiri_TR"
+ ],
+ "Turkish_Karabuk_(n=8)": [
+  "Karabük_TR"
+ ],
+ "Turkish_Tokat_(n=21)": [
+  "Tokat_TR"
+ ],
+ "Turkish_Sivas_(n=63)": [
+  "Sivas_TR"
+ ],
+ "Turkish_Corum_(n=19)": [
+  "Çorum_TR"
+ ],
+ "Turkish_Amasya_(n=12)": [
+  "Amasya_TR"
+ ],
+ "Turkish_Kutahya_(n=17)": [
+  "Kütahya_TR"
+ ],
+ "Turkish_Konya_(n=14)": [
+  "Konya_TR"
+ ],
+ "Turkish_Karaman_(n=20)": [
+  "Karaman_TR"
+ ],
+ "Turkish_Nigde_(n=10)": [
+  "Nigde_TR"
+ ],
+ "Turkish_Kayseri_(n=35)": [
+  "Kayseri_TR"
+ ],
+ "Turkish_Isparta_(n=34)": [
+  "Isparta_TR"
+ ],
+ "Turkish_Manisa_(n=9)": [
+  "Manisa_TR"
+ ],
+ "Turkish_Denizli_(n=9)": [
+  "Denizli_TR"
+ ],
+ "Turkish_Burdur_(n=16)": [
+  "Burdur_TR"
+ ],
+ "Turkish_Aksaray_(n=23)": [
+  "Aksaray_TR"
+ ],
+ "Turkish_Nevsehir_(n=32)": [
+  "Nevsehir_TR"
+ ],
+ "Turkish_Yozgat_(n=30)": [
+  "Yozgat_TR"
+ ],
+ "Turkish_Kirsehir_(n=20)": [
+  "Kirsehir_TR"
+ ],
+ "Turkish_Usak_(n=21)": [
+  "Usak_TR"
+ ],
+ "Turkish_Erzincan_(n=16)": [
+  "Erzincan_TR"
+ ],
+ "Turkish_Tunceli_(n=3)": [
+  "Tunceli_TR"
+ ],
+ "Turkish_Afyonkarahisar_(n=18)": [
+  "Afyonkarahisar_TR"
+ ],
+ "Turkish_Kirikkale_(n=6)": [
+  "Kırıkkale_TR"
+ ],
+ "Turkish_Erzurum_(n=12)": [
+  "Erzurum_TR"
+ ],
+ "Turkish_Malatya_(n=19)": [
+  "Malatya_TR"
+ ],
+ "Turkish_Elazig_(n=4)": [
+  "Elazig_TR"
+ ],
+ "Turkish_Bitlis_(n=1)": [
+  "Bitlis_TR"
+ ],
+ "Kurdish_Kurmanji_Turkey_Bingol_(n=3)": [
+  "Bingöl_TR"
+ ],
+ "Turkish_Osmaniye_(n=2)": [
+  "Osmaniye_TR"
+ ],
+ "Turkish_Adiyaman_(n=2)": [
+  "Adiyaman_TR"
+ ],
+ "Kurdish_Kurmanji_Turkey_Diyarbakir_(n=9)": [
+  "Diyarbakir_TR"
+ ],
+ "Kurdish_Kurmanji_Turkey_Siirt_(n=2)": [
+  "Siirt_TR"
+ ],
+ "Turkish_Bayburt_(n=14)": [
+  "Bayburt_TR"
+ ],
+ "Turkish_Gumushane_(n=3)": [
+  "Gümüshane_TR"
+ ],
+ "Kurdish_Kurmanji_Turkey_(n=21)": [
+  "Sirnak_TR",
+  "Agri_TR",
+  "Mus_TR",
+  "Batman_TR"
+ ],
+ "Turkish_Canakkale_Biga_Peninsula_(n=3)": [
+  "Çanakkale_TR"
+ ],
+ "Turkish_Kahramanmaras_(n=25)": [
+  "K__Maras_TR"
+ ],
+ "Kurdish_Kurmanji_Iraq_Duhok_(n=6)": [
+  "Dihok_IQ"
+ ],
+ "Kurdish_Sorani_Iraq_Erbil_(n=6)": [
+  "Arbil_IQ"
+ ],
+ "Kurdish_Sorani_Iraq_Sulaymaniyah_(n=13)": [
+  "As-Sulaymaniyah_IQ",
+  "Halabja_IQ"
+ ],
+ "Kirkuk_47Tolkien": [
+  "At-Ta_mim_IQ"
+ ],
+ "Iraqi_Arab_Basra_(Mesopotamian_Arab_Profile)_(n=8)": [
+  "Al-Basrah_IQ"
+ ],
+ "Iraqi_Arab_Muthanna_(Arabian-Mixed_Profile)_(n=1)": [
+  "Al-Muthannia_IQ"
+ ],
+ "Iraqi_Arab_Diyala_(Mesopotamian_Arab_Profile)_(n=3)": [
+  "Diyala_IQ"
+ ],
+ "Iraqi_Arab_Wasit_(Mesopotamian_Arab_Profile)_(n=2)": [
+  "Wasit_IQ"
+ ],
+ "Iraqi_Arab_Maysan_(Mesopotamian_Arab_Profile)_(n=15)": [
+  "Maysan_IQ"
+ ],
+ "Iraqi_Arab_Anbar_(Syrio-Mesopotamian_Arab_Profile)_(n=5)": [
+  "Al-Anbar_IQ"
+ ],
+ "Iraqi_Arab_Najaf_(Mesopotamian_Arab_Profile)_(n=6)": [
+  "An-Najaf_IQ"
+ ],
+ "Iraqi_Arab_Nineveh_(Syrio-Mesopotamian_Arab_Profile)_(n=8)": [
+  "Ninawa_IQ"
+ ],
+ "Iraqi_Arab_Saladin_(Syrio-Mesopotamian_Arab_Profile)_(n=3)": [
+  "Sala_ad-Din_IQ"
+ ],
+ "Iraqi_Arab_Baghdad_(Syrio-Mesopotamian_Arab_Profile)_(n=15)": [
+  "Baghdad_IQ"
+ ],
+ "Iraqi_Arab_Babylon_(Mesopotamian_Arab_Profile)_(n=3)": [
+  "Babil_IQ"
+ ],
+ "Iraqi_Arab_Al-Qadisiyyah_(Mesopotamian_Arab_Profile)_(n=2)": [
+  "Al-Qadisiyyah_IQ"
+ ],
+ "Iraqi_Arab_Dhi_Qar_(Mesopotamian_Arab_Profile)_Marsh_Arab_(n=5)": [
+  "Dhi-Qar_IQ"
+ ],
+ "Iraqi_Arab_Karbala_(Mesopotamian_Arab_Profile)_(n=6)": [
+  "Karbala__IQ"
+ ],
+ "Algerian_Arab_Algiers_(n=24)": [
+  "Alger_DZ"
+ ],
+ "Algerian_Arab_(n=32)": [
+  "Annaba_DZ",
+  "Aïn_Defla_DZ",
+  "Aïn_Témouchent_DZ",
+  "Biskra_DZ",
+  "Blida_DZ",
+  "Bordj_Bou_Arréridj_DZ",
+  "Béchar_DZ",
+  "Chlef_DZ",
+  "Constantine_DZ",
+  "Djelfa_DZ",
+  "El_Bayadh_DZ",
+  "El_M_Ghair_DZ",
+  "El_Oued_DZ",
+  "El_Tarf_DZ",
+  "Guelma_DZ",
+  "Jijel_DZ",
+  "Laghouat_DZ",
+  "M_Sila_DZ",
+  "Mascara_DZ",
+  "Mila_DZ",
+  "Mostaganem_DZ",
+  "Médéa_DZ",
+  "Naâma_DZ",
+  "Oran_DZ",
+  "Ouargla_DZ",
+  "Ouled_Djellal_DZ",
+  "Relizane_DZ",
+  "Saïda_DZ",
+  "Sidi_Bel_Abbès_DZ",
+  "Skikda_DZ",
+  "Souk_Ahras_DZ",
+  "Sétif_DZ",
+  "Tiaret_DZ",
+  "Tipaza_DZ",
+  "Tlemcen_DZ",
+  "Touggourt_DZ",
+  "Tébessa_DZ"
+ ],
+ "Berber_Algeria_Shawiya_(n=8)": [
+  "Batna_DZ",
+  "Khenchela_DZ",
+  "Oum_el_Bouaghi_DZ"
+ ],
+ "Berber_Algeria_Tuareg_(n=1)": [
+  "Bordj_Baji_Mokhtar_DZ",
+  "Djanet_DZ",
+  "Illizi_DZ",
+  "In_Guezzam_DZ",
+  "In_Salah_DZ",
+  "Tamanghasset_DZ",
+  "Ghat_LY",
+  "Murzuq_LY"
+ ],
+ "Berber_Algeria_Kabyle_(n=25)": [
+  "Bouira_DZ",
+  "Boumerdès_DZ",
+  "Béjaïa_DZ",
+  "Tizi_Ouzou_DZ"
+ ],
+ "Berber_Algeria_Mozabite_(n=25)": [
+  "El_Menia_DZ",
+  "Ghardaïa_DZ"
+ ],
+ "Berber_Algeria_Ouarsenis_Zenati_(n=1)": [
+  "Tissemsilt_DZ"
+ ],
+ "Persian_Tehran_(n=2)": [
+  "Alborz_IR",
+  "Tehran_IR",
+  "Qazvin_IR"
+ ],
+ "Azeri_Iran_Ardabil_(n=18)": [
+  "Ardabil_IR"
+ ],
+ "Persian_Bushehr_(n=2)": [
+  "Bushehr_IR"
+ ],
+ "Persian_Kerman_(n=20)": [
+  "Kerman_IR"
+ ],
+ "Azeri_Iran_East_Azerbaijan_Tabriz_(n=6)": [
+  "East_Azerbaijan_IR"
+ ],
+ "Persian_Fars_Shiraz_(n=13)": [
+  "Fars_IR"
+ ],
+ "Persian_Bandari_(n=9)": [
+  "Hormozgan_IR"
+ ],
+ "Lak_Iran_(n=3)": [
+  "Ilam_IR",
+  "Lorestan_IR"
+ ],
+ "Persian_Isfahan_(n=6)": [
+  "Isfahan_IR"
+ ],
+ "Kurdish_Iran_Kermanshah_(n=3)": [
+  "Kermanshah_IR"
+ ],
+ "Iranian_Arab_Khuzestan_(n=8)": [
+  "Khuzestan_IR"
+ ],
+ "Kurdish_Sorani_Iran_Kordestan_(n=6)": [
+  "Kurdistan_IR"
+ ],
+ "Persian_Markazi_(n=1)": [
+  "Markazi_IR",
+  "Hamadan_IR"
+ ],
+ "Persian_Khorasan_(n=12)": [
+  "North_Khorasan_IR",
+  "Razavi_Khorasan_IR",
+  "South_Khorasan_IR"
+ ],
+ "Persian_Qom_(n=1)": [
+  "Qom_IR"
+ ],
+ "Persian_Semnan_(n=2)": [
+  "Semnan_IR"
+ ],
+ "Balochi_Iran_(n=5)": [
+  "Sistan_and_Baluchestan_IR"
+ ],
+ "Kurdish_Sorani_Iran_West_Azerbaijan_(n=8)": [
+  "West_Azerbaijan_IR"
+ ],
+ "Persian_Yazd_(n=19)": [
+  "Yazd_IR"
+ ],
+ "Azeri_Iran_Zanjan_(n=5)": [
+  "Zanjan_IR"
+ ],
+ "Egyptian_Arab_Muslim_Dakahlia_(n=12)": [
+  "Ad_Daqahliyah_EG"
+ ],
+ "Egyptian_Arab_Muslim_(n=74)": [
+  "Al_Bahr_al_Ahmar_EG",
+  "Al_Fayyum_EG",
+  "Al_Isma_iliyah_EG",
+  "Al_Minufiyah_EG",
+  "Al_Minya_EG",
+  "Al_Wadi_at_Jadid_EG",
+  "As_Suways_EG",
+  "Bani_Suwayf_EG",
+  "Bur_Sa_id_EG",
+  "Dumyat_EG",
+  "Janub_Sina__EG",
+  "Matruh_EG",
+  "Qina_EG",
+  "Shamal_Sina__EG"
+ ],
+ "Egyptian_Arab_Muslim_Beheira_(n=2)": [
+  "Al_Buhayrah_EG"
+ ],
+ "Egyptian_Arab_Muslim_Gharbia_(n=5)": [
+  "Al_Gharbiyah_EG"
+ ],
+ "Egyptian_Arab_Muslim_Alexandria_(n=5)": [
+  "Al_Iskandariyah_EG"
+ ],
+ "Egyptian_Arab_Muslim_Giza_(n=2)": [
+  "Al_Jizah_EG"
+ ],
+ "Egyptian_Arab_Muslim_Cairo_(n=5)": [
+  "Al_Qahirah_EG"
+ ],
+ "Egyptian_Arab_Muslim_Qalyubia_(n=2)": [
+  "Al_Qalyubiyah_EG"
+ ],
+ "Egyptian_Arab_Muslim_Sharqia_(n=3)": [
+  "Ash_Sharqiyah_EG"
+ ],
+ "Egyptian_Arab_Muslim_(Nubian/Sudanese-Mixed)_(n=1)": [
+  "Aswan_EG"
+ ],
+ "Egyptian_Copt_(n=27)": [
+  "Asyut_EG",
+  "Suhaj_EG"
+ ],
+ "Egyptian_Arab_Muslim_Kafr_El_Sheikh_(n=2)": [
+  "Kafr_ash_Shaykh_EG"
+ ],
+ "Tunisian_Arab_(n=8)": [
+  "Ariana_TN",
+  "Ben_Arous_Tunis_Sud_TN",
+  "Béja_TN",
+  "Gafsa_TN",
+  "Kairouan_TN",
+  "Kassérine_TN",
+  "Le_Kef_TN",
+  "Mahdia_TN",
+  "Manouba_TN",
+  "Nabeul_TN",
+  "Sidi_Bou_Zid_TN",
+  "Siliana_TN",
+  "Tozeur_TN",
+  "Zaghouan_TN"
+ ],
+ "Tunisian_Arab_Bizerte_(n=2)": [
+  "Bizerte_TN"
+ ],
+ "Berber_Tunisia_East_Zenati_Matmata_(n=13)": [
+  "Gabès_TN"
+ ],
+ "Tunisian_Arab_Jendouba_(n=2)": [
+  "Jendouba_TN"
+ ],
+ "Tunisian_Arab_Douz_(n=31)": [
+  "Kebili_TN"
+ ],
+ "Tunisian_Arab_Monastir_(n=6)": [
+  "Monastir_TN"
+ ],
+ "Berber_Tunisia_East_Zenati_Djerba_(n=3)": [
+  "Médenine_TN"
+ ],
+ "Tunisian_Arab_Sfax_(n=6)": [
+  "Sfax_TN"
+ ],
+ "Tunisian_Arab_Sousse_(n=2)": [
+  "Sousse_TN"
+ ],
+ "Berber_Tunisia_East_Zenati_Chenini_(n=18)": [
+  "Tataouine_TN"
+ ],
+ "Tunisian_Arab_Tunis_(n=11)": [
+  "Tunis_TN"
+ ],
+ "Libyan_Arab_(n=21)": [
+  "Ajdabiya_LY",
+  "Al_Butnan_LY",
+  "Al_Jufrah_LY",
+  "Al_Kufrah_LY",
+  "Ash_Shati__LY",
+  "Sabha_LY",
+  "Surt_LY",
+  "Wadi_al_Hayaa_LY"
+ ],
+ "Libyan_Arab_Benghazi_(n=2)": [
+  "Al_Jabal_al_Akhdar_LY",
+  "Al_Marj_LY",
+  "Al_Qubbah_LY",
+  "Benghazi_LY"
+ ],
+ "Libyan_Arab_Tripoli_(n=4)": [
+  "Al_Jifarah_LY",
+  "Al_Marqab_LY",
+  "Az_Zawiyah_LY",
+  "Tajura__wa_an_Nawahi_al_Arba_LY"
+ ],
+ "Shwashin_Arab_Libya_(n=2)": [
+  "An_Nuqat_al_Khams_LY",
+  "Ghadamis_LY",
+  "Mizdah_LY"
+ ],
+ "Libyan_Arab_Misrata_(n=3)": [
+  "Misratah_LY"
+ ],
+ "Yemeni_Arab_(n=8)": [
+  "Abyan_YE",
+  "Al_Hudaydah_YE",
+  "Al_Mahwit_YE",
+  "Hajjah_YE",
+  "Lahij_YE",
+  "Sa_dah_YE"
+ ],
+ "Yemeni_Arab_Al_Bayda_(n=6)": [
+  "Al_Bayda__YE"
+ ],
+ "Yemeni_Arab_Dhale_(n=7)": [
+  "Al_Dali__YE"
+ ],
+ "Yemeni_Arab_Al_Jawf_(n=4)": [
+  "Al_Jawf_YE"
+ ],
+ "Yemeni_Mehri_Mahra_(n=9)": [
+  "Al_Mahrah_YE"
+ ],
+ "Yemeni_Arab_Amanat_Al_Asimah_(n=2)": [
+  "Amanat_Al_Asimah_YE",
+  "Sana_a_YE"
+ ],
+ "Yemeni_Arab_Amran_(n=16)": [
+  "Amran_YE"
+ ],
+ "Yemeni_Arab_Dhamar_(n=10)": [
+  "Dhamar_YE"
+ ],
+ "Yemeni_Arab_Hadramaut_(n=5)": [
+  "Hadramawt_YE",
+  "Socotra_YE"
+ ],
+ "Yemeni_Arab_Ibb_(n=6)": [
+  "Ibb_YE"
+ ],
+ "Yemeni_Arab_Ma'rib_(n=6)": [
+  "Ma_rib_YE"
+ ],
+ "Yemeni_Arab_Raymah_(Afro-Arab-Mixed)_(n=1)": [
+  "Raymah_YE"
+ ],
+ "Yemeni_Arab_Shabwah_(n=1)": [
+  "Shabwah_YE"
+ ],
+ "Yemeni_Arab_Taiz_(n=1)": [
+  "Ta_izz_YE"
+ ],
+ "Sudanese_Arab_Ja'alin_(n=13)": [
+  "Blue_Nile_SD",
+  "Gedarif_SD",
+  "Gezira_SD",
+  "Khartoum_SD",
+  "River_Nile_SD",
+  "Sennar_SD",
+  "White_Nile_SD"
+ ],
+ "Daju_Sudan_(n=17)": [
+  "Central_Darfur_SD"
+ ],
+ "Baggara_Sudan_(n=17)": [
+  "Eastern_Darfur_SD",
+  "South_Kordufan_SD",
+  "West_Kordufan_SD"
+ ],
+ "Zaghawa_Sudan_(n=31)": [
+  "North_Darfur_SD",
+  "Western_Darfur_SD"
+ ],
+ "Sudanese_Arab_Kababish_(n=17)": [
+  "North_Kordufan_SD"
+ ],
+ "Sudanese_Arab_Shaigia_(n=9)": [
+  "Northern_SD"
+ ],
+ "Baggara_Messiria_Sudan_(n=3)": [
+  "Southern_Darfur_SD",
+  "Abyei_OT"
+ ],
+ "Syrian_Arab_Aleppo_(Syrio-Mesopotamian_Arab_Profile)_(n=57)": [
+  "Aleppo_SY"
+ ],
+ "Syrian_Arab_Raqqa_(Mesopotamian_Arab_Profile)_(n=3)": [
+  "Ar_Raqqah_SY"
+ ],
+ "Druze_Lebanon_(n=26)": [
+  "As_Suwayda__SY"
+ ],
+ "MountLebanon_47Tolkien": [
+  "Mount_Lebanon_LB"
+ ],
+ "Syrian_Arab_Damascus_(Levantine_Profile)_(n=13)": [
+  "Damascus_SY",
+  "Rif_Dimashq_SY"
+ ],
+ "Syrian_Arab_Daraa_(Levantine_Profile)_(n=5)": [
+  "Dar_a_SY"
+ ],
+ "Syrian_Arab_Deir_ez-Zor_(Syrio-Mesopotamian_Arab_Profile)_(n=5)": [
+  "Dayr_Az_Zawr_SY"
+ ],
+ "Syrian_Arab_Hama_(Levantine_Profile)_(n=6)": [
+  "Hamah_SY"
+ ],
+ "Hasaka_47Tolkien": [
+  "Hasaka_SY"
+ ],
+ "Syrian_Arab_Homs_(Levantine_Profile)_(n=7)": [
+  "Homs_Hims_SY"
+ ],
+ "Syrian_Arab_Idlib_(Syrio-Mesopotamian_Arab_Profile)_(n=21)": [
+  "Idlib_SY"
+ ],
+ "Alawite_Syria_(n=4)": [
+  "Lattakia_SY",
+  "Tartus_SY"
+ ],
+ "Syrian_Arab_Golan_(Arabian-Mixed_Profile)_(n=4)": [
+  "Quneitra_SY"
+ ],
+ "Saudi_Arab_(n=246)": [
+  "Al_Bahah_SA",
+  "Al_Hudud_ash_Shamaliyah_SA",
+  "Al_Jawf_SA",
+  "Asir_SA",
+  "Najran_SA",
+  "Ash_Sharqiyah_SA"
+ ],
+ "Saudi_Arab_Hejaz_(n=6)": [
+  "Al_Madinah_SA",
+  "Makkah_SA",
+  "Tabuk_SA"
+ ],
+ "Saudi_Arab_Najd_(n=16)": [
+  "Ar_Quassim_SA",
+  "Ar_Riyad_SA",
+  "Ha_il_SA"
+ ],
+ "Saudi_Arab_Qatif_(Afro-Arab-Mixed)_(n=5)": [
+  "Al_Janūbīyah_BH"
+ ],
+ "Saudi_Arab_Jizan_(n=4)": [
+  "Jizan_SA"
+ ],
+ "Jordanian_Arab_Muslim_(n=42)": [
+  "Ajlun_JO",
+  "Amman_JO",
+  "Balqa_JO",
+  "Irbid_JO",
+  "Jarash_JO",
+  "Madaba_JO",
+  "Zarqa_JO"
+ ],
+ "Bedouin_Jordan_(n=4)": [
+  "Aqaba_JO",
+  "Ma_an_JO",
+  "Mafraq_JO",
+  "Tafilah_JO"
+ ],
+ "Jordanian_Arab_Christian_(n=18)": [
+  "Karak_JO"
+ ],
+ "Berber_Morocco_Central_Atlas_Tamazight_(n=7)": [
+  "Béni_Mellal-Khénifra_MA"
+ ],
+ "Berber_Morocco_Shilha_Ouarzazate_(n=6)": [
+  "Drâa_Tafilalet_MA"
+ ],
+ "Moroccan_Arab_Fassi_(n=7)": [
+  "Fès-Meknès_MA"
+ ],
+ "Moroccan_Arab_(n=24)": [
+  "Guelmim_Oued_Noun_MA",
+  "Rabat_Salé_Kénitra_MA"
+ ],
+ "Berber_Morocco_Shilha_(n=21)": [
+  "Marrakesh_Safi_MA",
+  "Souss_Massa_MA"
+ ],
+ "Moroccan_Arab_Oujda_(n=4)": [
+  "Oriental_MA"
+ ],
+ "Moroccan_Arab_Casablanca_(n=9)": [
+  "Settat_Casablanca_MA"
+ ],
+ "TangerTetouan_47Tolkien": [
+  "Tanger-Tetouan-Al_Hoceima_MA"
+ ],
+ "Omani_Arab_(n=2)": [
+  "Ad_Dakhliyah_OM",
+  "Al_Batnah_North_OM",
+  "Al_Batnah_South_OM",
+  "Al_Buraymi_OM",
+  "Al_Dhahira_OM",
+  "Al_Wusta_OM",
+  "Ash_Sharqiyah_North_OM",
+  "Ash_Sharqiyah_South_OM",
+  "Musandam_OM",
+  "Muscat_OM",
+  "Dhofar_OM"
+ ],
+ "Lebanese_Arab_Muslim_Sunni_Tripoli_(n=9)": [
+  "Akkar_LB"
+ ],
+ "Lebanese_Arab_Muslim_Shia_Baalbek_(n=1)": [
+  "Baalbek-Hermel_LB"
+ ],
+ "Beqaa_47Tolkien": [
+  "Beqaa_LB"
+ ],
+ "Lebanese_Arab_Christian_Maronite_(n=11)": [
+  "Keserwan_Jbeil_LB"
+ ],
+ "Lebanese_Arab_Muslim_Shia_Nabatieh_(n=2)": [
+  "Nabatieh_LB"
+ ],
+ "NorthLebanon_47Tolkien": [
+  "North_LB"
+ ],
+ "Lebanese_Arab_Muslim_Shia_(n=11)": [
+  "South_LB"
+ ],
+ "Qatari_Arab_(n=3)": [
+  "Al_Daayen_QA",
+  "Al_Khawr_QA",
+  "Al_Shahaniya_QA",
+  "Al_Wakrah_QA",
+  "Ar_Rayyān_QA",
+  "Madinat_ach_Shamal_QA",
+  "Umm_Salal_QA"
+ ],
+ "Greek_Cyprus_(n=41)": [
+  "Dhekelia_CY",
+  "Famagusta_CY",
+  "Larnaca_CY",
+  "Limassol_CY",
+  "Nicosia_CY",
+  "Paphos_CY"
+ ],
+ "Turkish_Cyprus_(n=33)": [
+  "Northern_Cyprus_CY"
+ ],
+ "Emirati_Arab_(Arabian_Profile)_(n=64)": [
+  "Abu_Dhabi_AE",
+  "Ajman_AE",
+  "Dubay_AE",
+  "Fujayrah_AE",
+  "Ras_Al_Khaymah_AE",
+  "Sharjah_AE",
+  "Umm_Al_Qaywayn_AE"
+ ],
+ "Israel_47Tolkien": [
+  "HaDarom_IL",
+  "HaMerkaz_IL",
+  "Jerusalem_IL",
+  "Tel_Aviv_IL",
+  "Haifa_IL"
+ ],
+ "HaZafon_47Tolkien": [
+  "HaZafon_IL"
+ ],
+ "Kuwaiti_Arab_(n=2)": [
+  "Al_Ahmadi_KW",
+  "Al_Farwaniyah_KW"
+ ],
+ "Kuwaiti_Arab_Al-Awazem_(n=4)": [
+  "Al_Jahrah_KW"
+ ],
+ "Palestinian_Arab_Muslim_Gaza_(n=4)": [
+  "Gaza_Strip_PS"
+ ],
+ "Palestinian_Arab_Muslim_(n=84)": [
+  "West_Bank_PS"
+ ],
+ "Maltese_(n=8)": [
+  "Malta_MT"
+ ],
+ "Saharawi_(n=27)": [
+  "Dakhla_Oued_Ed_Dahab_MA",
+  "Laâyoune_Sakia_El_Hamra_MA",
+  "Western_Sahara_EH",
+  "Tindouf_DZ"
+ ],
+ "Mauritania_47Tolkien": [
+  "Adrar_MR",
+  "Assaba_MR",
+  "Brakna_MR",
+  "Dakhlet_Nouadhibou_MR",
+  "Gorgol_MR",
+  "Guidimaka_MR",
+  "Hodh_ech_Chargui_MR",
+  "Hodh_el_Gharbi_MR",
+  "Inchiri_MR",
+  "Nouakchott_MR",
+  "Tagant_MR",
+  "Tiris_Zemmour_MR",
+  "Trarza_MR"
+ ],
+ "Berber_Algeria_Gourara_Timimoun_(n=6)": [
+  "Adrar_DZ",
+  "Béni_Abbès_DZ",
+  "Timimoun_DZ"
+ ],
+ "Gilak": [
+  "Gilan_IR"
+ ],
+ "Mazandarani": [
+  "Mazandaran_IR",
+  "Golestan_IR"
+ ],
+ "Turkish_Istanbul": [
+  "Istanbul_TR"
+ ],
+ "Beja_Beni-Amer": [
+  "Red_Sea_SD"
+ ],
+ "Beja_Hadendowa": [
+  "Kassala_SD"
+ ],
+ "Lur_(n=17)": [
+  "Kohgiluyeh_and_Buyer_Ahmad_IR",
+  "Chaharmahal_and_Bakhtiari_IR"
+ ]
+}

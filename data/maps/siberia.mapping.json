@@ -1,0 +1,73 @@
+{
+ "Altai-Kizhi_(n=36)": [
+  "Altai_Krai",
+  "Altai_Republic",
+  "Tuva_Republic"
+ ],
+ "Bashkir_47Tolkien": [
+  "Chelyabinsk_Oblast",
+  "Orenburg_Oblast"
+ ],
+ "Evenk_(n=19)": [
+  "Amur_Oblast"
+ ],
+ "Chukchi_(n=29)": [
+  "Chukotka_Autonomous_Okrug"
+ ],
+ "Buryat_Irkutsk_(n=11)": [
+  "Irkutsk_Oblast"
+ ],
+ "Nanai_(n=10)": [
+  "Jewish_Autonomous_Oblast",
+  "Khabarovsk_Krai",
+  "Primorsky_Krai"
+ ],
+ "KoryakItelmen_47Tolkien": [
+  "Kamchatka_Krai"
+ ],
+ "Shor_Khakassia_(n=6)": [
+  "Kemerovo_Oblast"
+ ],
+ "KhantyMansi_47Tolkien": [
+  "Khanty_Mansi_Autonomous_Okrug"
+ ],
+ "KetDolganEvenk_47Tolkien": [
+  "Krasnoyarsk_Krai"
+ ],
+ "SiberianTatar_47Tolkien": [
+  "Kurgan_Oblast",
+  "Novosibirsk_Oblast",
+  "Omsk_Oblast",
+  "Tyumen_Oblast"
+ ],
+ "BashkirTatar_47Tolkien": [
+  "Republic_of_Bashkortostan"
+ ],
+ "Buryat_(n=27)": [
+  "Republic_of_Buryatia"
+ ],
+ "Khakass_47Tolkien": [
+  "Republic_of_Khakassia"
+ ],
+ "Yakut_(n=29)": [
+  "Sakha_Republic"
+ ],
+ "Nivkh_(n=10)": [
+  "Sakhalin_Oblast"
+ ],
+ "Mansi_(n=12)": [
+  "Sverdlovsk_Oblast"
+ ],
+ "Selkup_Taz_(n=88)": [
+  "Tomsk_Oblast"
+ ],
+ "Nenets_47Tolkien": [
+  "Yamalo_Nenets_Autonomous_Okrug"
+ ],
+ "Buryat_Aginsky_(n=11)": [
+  "Zabaykalsky_Krai"
+ ],
+ "Even_(n=8)": [
+  "Magadan_Oblast"
+ ]
+}

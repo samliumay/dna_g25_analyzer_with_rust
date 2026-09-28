@@ -1,0 +1,283 @@
+{
+ "Afro-Haitian_(n=31)": [
+  "Centre_HT",
+  "Grand_Anse_HT",
+  "L_Artibonite_HT",
+  "Nippes_HT",
+  "Nord-Est_HT",
+  "Nord_HT",
+  "Nord-Ouest_HT",
+  "Ouest_HT",
+  "Sud-Est_HT",
+  "Sud_HT"
+ ],
+ "Afro-Jamaican_(n=46)": [
+  "Clarendon_JM",
+  "Hanover_JM",
+  "Manchester_JM",
+  "Portland_JM",
+  "Saint_Andrew_JM",
+  "Saint_Ann_JM",
+  "Saint_Catherine_JM",
+  "Saint_Elizabeth_JM",
+  "Saint_James_JM",
+  "Saint_Mary_JM",
+  "Saint_Thomas_JM",
+  "Trelawny_JM",
+  "Westmoreland_JM"
+ ],
+ "Trinidad_Indo_dominant": [
+  "Penal-Debe_TT"
+ ],
+ "Trinidad_Indo_majority": [
+  "Couva-Tabaquite-Talparo_TT"
+ ],
+ "Trinidad_Indo_plurality": [
+  "Siparia_TT",
+  "Princes_Town_TT",
+  "Rio_Claro-Mayaro_TT"
+ ],
+ "Trinidad_mixed": [
+  "Tunapuna_Piarco_TT",
+  "Sangre_Grande_TT"
+ ],
+ "Trinidad_Afro_plurality": [
+  "Point_Fortin_TT"
+ ],
+ "Trinidad_Afro_majority": [
+  "Port_of_Spain_TT",
+  "Diego_Martin_TT",
+  "San_Juan-Laventille_TT"
+ ],
+ "Afro-Trinidadian_(n=9)": [
+  "Tobago_TT"
+ ],
+ "Anglo-Bahamian_(n=4)": [
+  "Spanish_Wells_BS"
+ ],
+ "Saint-Barth_French_settler": [
+  "Saint_Barthélemy_BL"
+ ],
+ "Puerto_Rican_(n=1069)": [
+  "Puerto_Rico_PR"
+ ],
+ "US_Virgin_Islands_47Tolkien": [
+  "Saint_Croix_VI",
+  "Saint_John_VI"
+ ],
+ "Espaillat_DO": [
+  "Espaillat_DO"
+ ],
+ "Hermanas_DO": [
+  "Hermanas_DO"
+ ],
+ "María_Trinidad_Sánchez_DO": [
+  "María_Trinidad_Sánchez_DO"
+ ],
+ "Monseñor_Nouel_DO": [
+  "Monseñor_Nouel_DO"
+ ],
+ "Sánchez_Ramírez_DO": [
+  "Sánchez_Ramírez_DO"
+ ],
+ "Santiago_Rodríguez_DO": [
+  "Santiago_Rodríguez_DO"
+ ],
+ "Valverde_DO": [
+  "Valverde_DO"
+ ],
+ "Dajabón_DO": [
+  "Dajabón_DO"
+ ],
+ "Bahoruco_DO": [
+  "Bahoruco_DO"
+ ],
+ "Independencia_DO": [
+  "Independencia_DO"
+ ],
+ "Pedernales_DO": [
+  "Pedernales_DO"
+ ],
+ "La_Estrelleta_DO": [
+  "La_Estrelleta_DO"
+ ],
+ "San_José_de_Ocoa_DO": [
+  "San_José_de_Ocoa_DO"
+ ],
+ "El_Seybo_DO": [
+  "El_Seybo_DO"
+ ],
+ "Hato_Mayor_DO": [
+  "Hato_Mayor_DO"
+ ],
+ "La_Altagracia_DO": [
+  "La_Altagracia_DO"
+ ],
+ "Santiago_DO": [
+  "Santiago_DO"
+ ],
+ "Duarte_DO": [
+  "Duarte_DO"
+ ],
+ "Santo_Domingo_DO": [
+  "Santo_Domingo_DO"
+ ],
+ "Distrito_Nacional_DO": [
+  "Distrito_Nacional_DO"
+ ],
+ "Samaná_DO": [
+  "Samaná_DO"
+ ],
+ "Azua_DO": [
+  "Azua_DO"
+ ],
+ "Peravia_DO": [
+  "Peravia_DO"
+ ],
+ "Barahona_DO": [
+  "Barahona_DO"
+ ],
+ "La_Vega_DO": [
+  "La_Vega_DO"
+ ],
+ "San_Juan_DO": [
+  "San_Juan_DO"
+ ],
+ "La_Romana_DO": [
+  "La_Romana_DO"
+ ],
+ "Puerto_Plata_DO": [
+  "Puerto_Plata_DO"
+ ],
+ "San_Pedro_de_Macorís_DO": [
+  "San_Pedro_de_Macorís_DO"
+ ],
+ "San_Cristóbal_DO": [
+  "San_Cristóbal_DO"
+ ],
+ "Monte_Plata_DO": [
+  "Monte_Plata_DO"
+ ],
+ "Monte_Cristi_DO": [
+  "Monte_Cristi_DO"
+ ],
+ "Santiago_de_Cuba_CU": [
+  "Santiago_de_Cuba_CU"
+ ],
+ "Guantánamo_CU": [
+  "Guantánamo_CU"
+ ],
+ "Granma_CU": [
+  "Granma_CU"
+ ],
+ "Holguín_CU": [
+  "Holguín_CU"
+ ],
+ "Las_Tunas_CU": [
+  "Las_Tunas_CU"
+ ],
+ "Camagüey_CU": [
+  "Camagüey_CU"
+ ],
+ "Ciego_de_Ávila_CU": [
+  "Ciego_de_Ávila_CU"
+ ],
+ "Sancti_Spíritus_CU": [
+  "Sancti_Spíritus_CU"
+ ],
+ "Villa_Clara_CU": [
+  "Villa_Clara_CU"
+ ],
+ "Cienfuegos_CU": [
+  "Cienfuegos_CU"
+ ],
+ "Matanzas_CU": [
+  "Matanzas_CU"
+ ],
+ "Mayabeque_CU": [
+  "Mayabeque_CU"
+ ],
+ "Ciudad_de_la_Habana_CU": [
+  "Ciudad_de_la_Habana_CU"
+ ],
+ "Artemisa_CU": [
+  "Artemisa_CU"
+ ],
+ "Pinar_del_Río_CU": [
+  "Pinar_del_Río_CU"
+ ],
+ "Isla_de_la_Juventud_CU": [
+  "Isla_de_la_Juventud_CU"
+ ],
+ "Barbados_BB": [
+  "Barbados_BB"
+ ],
+ "St_Lucia_LC": [
+  "St_Lucia_LC"
+ ],
+ "Dominica_DM": [
+  "Dominica_DM"
+ ],
+ "Grenada_GD": [
+  "Grenada_GD"
+ ],
+ "Carriacou_and_Petite_Martinique_GD": [
+  "Carriacou_and_Petite_Martinique_GD"
+ ],
+ "Saint_Vincent_and_the_Grenadines_VC": [
+  "Saint_Vincent_and_the_Grenadines_VC"
+ ],
+ "Antigua_and_Barbuda_AG": [
+  "Antigua_and_Barbuda_AG"
+ ],
+ "Anguilla_AI": [
+  "Anguilla_AI"
+ ],
+ "St_Kitts_and_Nevis_KN": [
+  "St_Kitts_and_Nevis_KN"
+ ],
+ "Montseratt_MS": [
+  "Montseratt_MS"
+ ],
+ "Guadeloupe_GP": [
+  "Guadeloupe_GP"
+ ],
+ "Martinique_MQ": [
+  "Martinique_MQ"
+ ],
+ "Cayman_Islands_KY": [
+  "Cayman_Islands_KY"
+ ],
+ "Bahamian_national": [
+  "Acklins_BS",
+  "Black_Point_BS",
+  "Cat_Island_BS",
+  "Central_Abaco_BS",
+  "Central_Andros_BS",
+  "Crooked_Island_and_Long_Cay_BS",
+  "East_Grand_Bahama_BS",
+  "Exuma_BS",
+  "Inagua_BS",
+  "Long_Island_BS",
+  "Mangrove_Cay_BS",
+  "Mayaguana_BS",
+  "New_Providence_BS",
+  "North_Abaco_BS",
+  "North_Andros_BS",
+  "North_Eleuthera_BS",
+  "Rum_Cay_BS",
+  "San_Salvador_BS",
+  "South_Abaco_BS",
+  "South_Andros_BS",
+  "South_Eleuthera_BS",
+  "West_Grand_Bahama_BS"
+ ],
+ "Turks_and_Caicos_national": [
+  "Grand_Turk_TC",
+  "Middle_Caicos_TC",
+  "North_Caicos_TC",
+  "Providenciales_and_West_Caicos_TC",
+  "Salt_Cay_TC",
+  "South_Caicos_and_East_Caicos_TC"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "Portuguese_Madeira_(n=1)": [
+  "Madeira_PT"
+ ],
+ "Cape_Verdean_(n=14)": [
+  "Boa_Vista_CV",
+  "Brava_CV",
+  "Maio_CV",
+  "Mosteiros_CV",
+  "Paul_CV",
+  "Porto_Novo_CV",
+  "Praia_CV",
+  "Ribeira_Brava_CV",
+  "Ribeira_Grande_CV",
+  "Ribeira_Grande_de_Santiago_CV",
+  "Sal_CV",
+  "Santa_Catarina_CV",
+  "Santa_Cruz_CV",
+  "São_Domingos_CV",
+  "São_Filipe_CV",
+  "São_Lourenço_dos_Órgãos_CV",
+  "São_Miguel_CV",
+  "São_Salvador_do_Mundo_CV",
+  "São_Vicente_CV",
+  "Tarrafal_CV",
+  "Tarrafal_de_São_Nicolau_CV"
+ ],
+ "Spanish_Canarias_El_Hierro_(Canarian)_(n=34)": [
+  "El_Hierro_ES"
+ ],
+ "Spanish_Canarias_La_Palma_(Canarian)_(n=34)": [
+  "La_Palma_ES"
+ ],
+ "Spanish_Canarias_La_Gomera_(Canarian)_(n=76)": [
+  "La_Gomera_ES"
+ ],
+ "Spanish_Canarias_Tenerife_(Canarian)_(n=64)": [
+  "Tenerife_ES"
+ ],
+ "Spanish_Canarias_Gran_Canaria_(Canarian)_(n=117)": [
+  "Gran_Canaria_ES"
+ ],
+ "Spanish_Canarias_Fuerteventura_(Canarian)_(n=32)": [
+  "Fuerteventura_ES"
+ ],
+ "Spanish_Canarias_Lanzarote_(Canarian)_(n=56)": [
+  "Lanzarote_ES",
+  "La_Graciosa_ES"
+ ],
+ "Portuguese_Azores_(n=32)": [
+  "Azores_PT"
+ ]
+}

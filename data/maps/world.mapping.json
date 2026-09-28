@@ -1,0 +1,535 @@
+{
+ "Afghanistan": [
+  "Afghanistan"
+ ],
+ "Albania": [
+  "Albania",
+  "Kosovo"
+ ],
+ "Algerian": [
+  "Algeria"
+ ],
+ "Armenia": [
+  "Armenia"
+ ],
+ "Austrian": [
+  "Austria"
+ ],
+ "Azerbaijan": [
+  "Azerbaijan"
+ ],
+ "Bangladesh": [
+  "Bangladesh"
+ ],
+ "Belarus": [
+  "Belarus"
+ ],
+ "Belgian(avg_flemish+walloon)": [
+  "Belgium"
+ ],
+ "Bosnia": [
+  "Bosnia_and_Herzegovina"
+ ],
+ "Bulgarian": [
+  "Bulgaria"
+ ],
+ "Burma": [
+  "Myanmar"
+ ],
+ "Cambodia": [
+  "Cambodia"
+ ],
+ "Cameroon": [
+  "Cameroon"
+ ],
+ "China": [
+  "China",
+  "Hong_Kong",
+  "Taiwan"
+ ],
+ "Croatian": [
+  "Croatia"
+ ],
+ "Czech": [
+  "Czechia"
+ ],
+ "DRC": [
+  "DR_Congo"
+ ],
+ "Danish": [
+  "Denmark",
+  "Faeroe_Islands"
+ ],
+ "Dutch": [
+  "Netherlands"
+ ],
+ "Egyptian": [
+  "Egypt"
+ ],
+ "England": [
+  "United_Kingdom"
+ ],
+ "Eritrea": [
+  "Eritrea"
+ ],
+ "Estonia": [
+  "Estonia"
+ ],
+ "Ethiopia(avg)": [
+  "Ethiopia"
+ ],
+ "Finnish(avg)": [
+  "Finland"
+ ],
+ "France": [
+  "France",
+  "Guadeloupe",
+  "Martinique",
+  "Reunion",
+  "French_Guiana",
+  "New_Caledonia",
+  "Monaco"
+ ],
+ "Georgia": [
+  "Georgia"
+ ],
+ "German": [
+  "Germany"
+ ],
+ "Greek_Central_Greece": [
+  "Greece",
+  "Cyprus"
+ ],
+ "Hungary": [
+  "Hungary"
+ ],
+ "Iceland": [
+  "Iceland"
+ ],
+ "India": [
+  "India"
+ ],
+ "Nepal_47Tolkien": [
+  "Nepal"
+ ],
+ "Tibetan_Nepal_(n=1000)": [
+  "Bhutan"
+ ],
+ "Indonesia": [
+  "Indonesia",
+  "Brunei",
+  "Timor_Leste"
+ ],
+ "Iran": [
+  "Iran"
+ ],
+ "Iraqi:": [
+  "Iraq"
+ ],
+ "Ireland": [
+  "Ireland"
+ ],
+ "Israel": [
+  "Israel"
+ ],
+ "Italy": [
+  "Italy",
+  "San_Marino"
+ ],
+ "Jordanian": [
+  "Jordan"
+ ],
+ "Kazakhistan": [
+  "Kazakhstan"
+ ],
+ "Kenya": [
+  "Kenya"
+ ],
+ "Kirghizstan": [
+  "Kyrgyzstan"
+ ],
+ "Kuwaiti_Arab_Al-Awazem_(n=4)": [
+  "Kuwait"
+ ],
+ "Laos": [
+  "Laos"
+ ],
+ "Latvia": [
+  "Latvia"
+ ],
+ "Lebanon": [
+  "Lebanon"
+ ],
+ "Libyan": [
+  "Libya"
+ ],
+ "Lithuania": [
+  "Lithuania"
+ ],
+ "Madagascar": [
+  "Madagascar"
+ ],
+ "Malaysia": [
+  "Malaysia",
+  "Singapore"
+ ],
+ "Mali": [
+  "Mali"
+ ],
+ "Maltese": [
+  "Malta"
+ ],
+ "Mauritania": [
+  "Mauritania"
+ ],
+ "Moldovan": [
+  "Moldova"
+ ],
+ "Mongolia": [
+  "Mongolia"
+ ],
+ "Montenegro": [
+  "Montenegro"
+ ],
+ "Moroccan": [
+  "Morocco"
+ ],
+ "Nigeria": [
+  "Nigeria"
+ ],
+ "North_Macedonia": [
+  "North_Macedonia"
+ ],
+ "Norwegian": [
+  "Norway"
+ ],
+ "Oman": [
+  "Oman"
+ ],
+ "Pakistan": [
+  "Pakistan"
+ ],
+ "Palestinian(avg.Christian+Muslim)": [
+  "Palestinian_Territories"
+ ],
+ "Polish": [
+  "Poland"
+ ],
+ "Portugal": [
+  "Portugal"
+ ],
+ "Qatari_Arab_(n=3)": [
+  "Qatar"
+ ],
+ "Romanian": [
+  "Romania"
+ ],
+ "Russia": [
+  "Russia"
+ ],
+ "Saharawi": [
+  "Western_Sahara"
+ ],
+ "Saudi_Arabia": [
+  "Saudi_Arabia"
+ ],
+ "Serbian": [
+  "Serbia"
+ ],
+ "Slovakian": [
+  "Slovakia"
+ ],
+ "Slovenian": [
+  "Slovenia"
+ ],
+ "Somali_Somalia": [
+  "Somalia"
+ ],
+ "South_Africa": [
+  "South_Africa",
+  "Eswatini"
+ ],
+ "South_Sudan": [
+  "South_Sudan"
+ ],
+ "Sri_Lanka": [
+  "Sri_Lanka"
+ ],
+ "Sudan": [
+  "Sudan"
+ ],
+ "Swedish": [
+  "Sweden"
+ ],
+ "Swiss(avg_french+german+italian)": [
+  "Switzerland",
+  "Liechtenstein"
+ ],
+ "Syrian": [
+  "Syria"
+ ],
+ "Tajikistan": [
+  "Tajikistan"
+ ],
+ "Thailand": [
+  "Thailand"
+ ],
+ "Tunisian": [
+  "Tunisia"
+ ],
+ "Turkey": [
+  "Türkiye"
+ ],
+ "Turkmenistan": [
+  "Turkmenistan"
+ ],
+ "Ukraine": [
+  "Ukraine"
+ ],
+ "United_Arab_Emirates": [
+  "United_Arab_Emirates"
+ ],
+ "Uzbekistan": [
+  "Uzbekistan"
+ ],
+ "Vanuatu_average": [
+  "Vanuatu"
+ ],
+ "Vietnam": [
+  "Vietnam"
+ ],
+ "Yemen": [
+  "Yemen"
+ ],
+ "Mexico_47Tolkien": [
+  "Mexico",
+  "Belize"
+ ],
+ "Guatemala_47Tolkien": [
+  "Guatemala"
+ ],
+ "Honduras_47Tolkien": [
+  "Honduras"
+ ],
+ "ElSalvador_47Tolkien": [
+  "El_Salvador"
+ ],
+ "Nicaragua_47Tolkien": [
+  "Nicaragua"
+ ],
+ "CostaRica_47Tolkien": [
+  "Costa_Rica"
+ ],
+ "Panama_47Tolkien": [
+  "Panama"
+ ],
+ "Cuba_47Tolkien": [
+  "Cuba",
+  "Bahamas",
+  "Dominica",
+  "Grenada",
+  "Saint_Lucia",
+  "Saint_Vincent_and_the_Grenadines",
+  "Antigua_and_Barbuda",
+  "Barbados",
+  "Trinidad_and_Tobago"
+ ],
+ "Haiti_47Tolkien": [
+  "Haiti"
+ ],
+ "DominicanRepublic_47Tolkien": [
+  "Dominican_Republic"
+ ],
+ "PuertoRico_47Tolkien": [
+  "Puerto_Rico"
+ ],
+ "Colombia_47Tolkien": [
+  "Colombia"
+ ],
+ "Venezuela_47Tolkien": [
+  "Venezuela"
+ ],
+ "Brazil_47Tolkien": [
+  "Brazil"
+ ],
+ "Ecuador_47Tolkien": [
+  "Ecuador"
+ ],
+ "Peru_47Tolkien": [
+  "Peru"
+ ],
+ "Bolivia_47Tolkien": [
+  "Bolivia"
+ ],
+ "Chile_47Tolkien": [
+  "Chile"
+ ],
+ "Argentina_47Tolkien": [
+  "Argentina",
+  "Falkland_Islands"
+ ],
+ "Uruguay_47Tolkien": [
+  "Uruguay"
+ ],
+ "Paraguay_47Tolkien": [
+  "Paraguay"
+ ],
+ "Anglo-Australian_(n=16)": [
+  "Australia"
+ ],
+ "Anglo-New_Zealander_(n=80)": [
+  "New_Zealand"
+ ],
+ "United_States": [
+  "United_States"
+ ],
+ "Canada_47Tolkien": [
+  "Canada"
+ ],
+ "Greenlander_West_(European-Mixed)_(n=7)": [
+  "Greenland"
+ ],
+ "Cape_Verdean_(n=14)": [
+  "Cabo_Verde"
+ ],
+ "Samoan_(n=7)": [
+  "Samoa",
+  "American_Samoa"
+ ],
+ "Tswana_(low_res)_(n=3)": [
+  "Botswana"
+ ],
+ "Hutu_Burundi_(n=1)": [
+  "Burundi",
+  "Rwanda"
+ ],
+ "Mauritian_(n=1)": [
+  "Mauritius"
+ ],
+ "Gabonese_Bantu_(n=1)": [
+  "Gabon"
+ ],
+ "Papuan_Coastal_(n=10)": [
+  "Papua_New_Guinea",
+  "Solomon_Islands"
+ ],
+ "Kongo_Republic_of_the_Congo_(n=2)": [
+  "Congo"
+ ],
+ "Akan_Ghana_(n=51)": [
+  "Ghana"
+ ],
+ "Fulani_Guinea_A_(n=17)": [
+  "Guinea"
+ ],
+ "Wolof_Gambia_(n=112)": [
+  "Senegal"
+ ],
+ "Mandinka_Gambia_(n=232)": [
+  "Gambia"
+ ],
+ "Mende_Sierra_Leone_(n=86)": [
+  "Sierra_Leone"
+ ],
+ "Mossi_(n=50)": [
+  "Burkina_Faso"
+ ],
+ "Hausa_(n=4)": [
+  "Niger"
+ ],
+ "Ovambo_Namibia_(n=9)": [
+  "Namibia"
+ ],
+ "Somali_(n=14)": [
+  "Djibouti"
+ ],
+ "Chewa_Malawi_(n=111)": [
+  "Malawi"
+ ],
+ "Surinamese_Creole_(n=7)": [
+  "Suriname"
+ ],
+ "Reunionese_Creole_(n=1)": [
+  "Réunion"
+ ],
+ "Angola": [
+  "Angola"
+ ],
+ "Spain": [
+  "Spain",
+  "Andorra"
+ ],
+ "Japanese_(n=476)": [
+  "Japan"
+ ],
+ "Korean_(n=102)": [
+  "South_Korea",
+  "North_Korea"
+ ],
+ "Luxembourgish": [
+  "Luxembourg"
+ ],
+ "CoteDIvoire_47Tolkien_proxy": [
+  "Cote_d_Ivoire"
+ ],
+ "Liberia_47Tolkien_proxy": [
+  "Liberia"
+ ],
+ "Benin_47Tolkien_proxy": [
+  "Benin"
+ ],
+ "Togo_47Tolkien_proxy": [
+  "Togo"
+ ],
+ "GuineaBissau_47Tolkien_proxy": [
+  "Guinea_Bissau"
+ ],
+ "EquatorialGuinea_47Tolkien_proxy": [
+  "Equatorial_Guinea"
+ ],
+ "CAR_47Tolkien_proxy": [
+  "Central_African_Republic"
+ ],
+ "Chad_47Tolkien_proxy": [
+  "Chad"
+ ],
+ "Mozambique_47Tolkien_proxy": [
+  "Mozambique"
+ ],
+ "Tanzania_47Tolkien_proxy": [
+  "Tanzania"
+ ],
+ "Uganda_47Tolkien_proxy": [
+  "Uganda"
+ ],
+ "Zambia_47Tolkien_proxy": [
+  "Zambia"
+ ],
+ "Zimbabwe_47Tolkien_proxy": [
+  "Zimbabwe"
+ ],
+ "Bahrain_47Tolkien_proxy": [
+  "Bahrain"
+ ],
+ "Comoros_47Tolkien_proxy": [
+  "Comoros"
+ ],
+ "Fiji_47Tolkien_proxy": [
+  "Fiji"
+ ],
+ "SaoTome_47Tolkien_proxy": [
+  "São_Tomé_and_Principe"
+ ],
+ "Sotho_Lesotho_(n=8)": [
+  "Lesotho"
+ ],
+ "Filipino_(n=82)": [
+  "Philippines"
+ ],
+ "Guyanese_average": [
+  "Guyana"
+ ],
+ "Afro-Jamaican_(n=46)": [
+  "Jamaica"
+ ]
+}

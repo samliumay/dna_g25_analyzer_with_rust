@@ -1,0 +1,276 @@
+{
+ "Han_Jiangsu_Nanjing_(n=7)": [
+  "Anhui_CN",
+  "Jiangsu_CN"
+ ],
+ "Han_Beijing_(Northern_China_Profile)_(n=65)": [
+  "Beijing_CN"
+ ],
+ "Han_Chongqing_(n=3)": [
+  "Chongqing_CN"
+ ],
+ "Han_Fujian_(n=35)": [
+  "Fujian_CN",
+  "Changhua_TW",
+  "Chiayi_City_TW",
+  "Chiayi_TW",
+  "Hsinchu_City_TW",
+  "Hsinchu_TW",
+  "Hualien_TW",
+  "Kaohsiung_City_TW",
+  "Keelung_City_TW",
+  "Kinmen_TW",
+  "Miaoli_TW",
+  "Nantou_TW",
+  "New_Taipei_City_TW",
+  "Penghu_TW",
+  "Pingtung_TW",
+  "Taichung_City_TW",
+  "Tainan_City_TW",
+  "Taipei_City_TW",
+  "Taitung_TW",
+  "Taoyuan_TW",
+  "Yilan_TW",
+  "Yunlin_TW"
+ ],
+ "Han_Gansu_Lanzhou_(n=2)": [
+  "Gansu_CN"
+ ],
+ "Han_Guangdong_(n=16)": [
+  "Guangdong_CN"
+ ],
+ "Guangxi_47Tolkien": [
+  "Guangxi_CN"
+ ],
+ "Han_Guizhou_Guiyang_(n=14)": [
+  "Guizhou_CN"
+ ],
+ "Han_Hainan_Haikou_(n=5)": [
+  "Hainan_CN"
+ ],
+ "Hebei_47Tolkien": [
+  "Hebei_CN"
+ ],
+ "Han_Hebei_(n=1)": [
+  "Tianjin_CN"
+ ],
+ "Han_Heilongjiang_Qiqihar_(n=1)": [
+  "Heilongjiang_CN"
+ ],
+ "Han_Henan_Pingqiao_(n=10)": [
+  "Henan_CN"
+ ],
+ "Han_Hubei_Shiyan_(n=122)": [
+  "Hubei_CN"
+ ],
+ "Han_Hunan_(n=71)": [
+  "Hunan_CN"
+ ],
+ "InnerMongolia_47Tolkien": [
+  "Inner_Mongol_CN"
+ ],
+ "Han_Jiangxi_Nanchang_(n=1)": [
+  "Jiangxi_CN"
+ ],
+ "Han_Jilin_Changchun_(n=1)": [
+  "Jilin_CN"
+ ],
+ "Liaoning_47Tolkien": [
+  "Liaoning_CN"
+ ],
+ "Hui_Ningxia_(n=2)": [
+  "Ningxia_CN"
+ ],
+ "Qinghai_47Tolkien": [
+  "Qinghai_CN"
+ ],
+ "Han_Shaanxi_Yulin_(n=2)": [
+  "Shaanxi_CN"
+ ],
+ "Han_Shandong_Jinan_(n=10)": [
+  "Shandong_CN"
+ ],
+ "Han_Shanghai_(n=4)": [
+  "Shanghai_CN"
+ ],
+ "Han_Shanxi_Taiyuan_(n=8)": [
+  "Shanxi_CN"
+ ],
+ "Han_Sichuan_Chengdu_(n=8)": [
+  "Sichuan_CN"
+ ],
+ "Uyghur_(n=22)": [
+  "Xinjiang_CN"
+ ],
+ "Tibetan_Lhasa_(n=9)": [
+  "Xizang_CN"
+ ],
+ "Han_Yunnan_Qiubei_(n=6)": [
+  "Yunnan_CN"
+ ],
+ "Han_Zhejiang_Hangzhou_(n=6)": [
+  "Zhejiang_CN"
+ ],
+ "Japanese_(n=476)": [
+  "Aichi_JP",
+  "Akita_JP",
+  "Aomori_JP",
+  "Chiba_JP",
+  "Ehime_JP",
+  "Fukui_JP",
+  "Fukuoka_JP",
+  "Fukushima_JP",
+  "Gifu_JP",
+  "Gunma_JP",
+  "Hiroshima_JP",
+  "Hokkaido_JP",
+  "Hyogo_JP",
+  "Ibaraki_JP",
+  "Ishikawa_JP",
+  "Iwate_JP",
+  "Kagawa_JP",
+  "Kagoshima_JP",
+  "Kanagawa_JP",
+  "Kochi_JP",
+  "Kumamoto_JP",
+  "Kyoto_JP",
+  "Mie_JP",
+  "Miyagi_JP",
+  "Miyazaki_JP",
+  "Nagano_JP",
+  "Nagasaki_JP",
+  "Nara_JP",
+  "Niigata_JP",
+  "Oita_JP",
+  "Okayama_JP",
+  "Osaka_JP",
+  "Saga_JP",
+  "Saitama_JP",
+  "Shiga_JP",
+  "Shimane_JP",
+  "Shizuoka_JP",
+  "Tochigi_JP",
+  "Tokushima_JP",
+  "Tokyo_JP",
+  "Tottori_JP",
+  "Toyama_JP",
+  "Wakayama_JP",
+  "Yamagata_JP",
+  "Yamaguchi_JP",
+  "Yamanashi_JP"
+ ],
+ "Ryukyuan_(low_res)_(n=1)": [
+  "Okinawa_JP"
+ ],
+ "Mongol_Khalkha_Mongolia_(n=26)": [
+  "Arhangay_MN",
+  "Bayanhongor_MN",
+  "Bulgan_MN",
+  "Darhan-Uul_MN",
+  "Dornod_MN",
+  "Dornogovi_MN",
+  "Dundgovi_MN",
+  "Govisümber_MN",
+  "Hentiy_MN",
+  "Orhon_MN",
+  "Sühbaatar_MN",
+  "Töv_MN",
+  "Ömnögovi_MN",
+  "Övörhangay_MN"
+ ],
+ "Kazakh_Mongolia_(n=3)": [
+  "Bayan-Ölgii_MN"
+ ],
+ "Mongol_Oirat_Khoton_Mongolia_(n=9)": [
+  "Dzavhan_MN"
+ ],
+ "Mongol_Oirat_Olot_Mongolia_(n=10)": [
+  "Govi-Altay_MN"
+ ],
+ "Buryat_Mongolia_(low_res)_(n=23)": [
+  "Hövsgöl_MN"
+ ],
+ "Mongol_Oirat_Torgut_Mongolia_(n=7)": [
+  "Hovd_MN"
+ ],
+ "Mongol_Khalkha_Sartuul_Mongolia_(n=7)": [
+  "Selenge_MN"
+ ],
+ "Mongol_Mongolia_(n=56)": [
+  "Ulaanbaatar_MN"
+ ],
+ "Mongol_Oirat_Dorbet_Mongolia_(n=8)": [
+  "Uvs_MN"
+ ],
+ "Korean_Jeju_Island_(n=47)": [
+  "Jeju_KR"
+ ],
+ "Korean_Seoul_(n=26)": [
+  "Seoul_KR"
+ ],
+ "Korean_(n=102)": [
+  "Busan_KR",
+  "Daegu_KR",
+  "Daejeon_KR",
+  "Gangwon_KR",
+  "Gwangju_KR",
+  "Gyeonggi_KR",
+  "Incheon_KR",
+  "North_Chungcheong_KR",
+  "North_Gyeongsang_KR",
+  "North_Jeolla_KR",
+  "Sejong_KR",
+  "South_Chungcheong_KR",
+  "South_Gyeongsang_KR",
+  "South_Jeolla_KR",
+  "Ulsan_KR",
+  "Chagang-do_KP",
+  "Hamgyŏng-bukto_KP",
+  "Hamgyŏng-namdo_KP",
+  "Hwanghae-bukto_KP",
+  "Hwanghae-namdo_KP",
+  "Kaesong_KP",
+  "Kangwŏn-do_KP",
+  "Nampo_KP",
+  "Phyŏngan-bukto_KP",
+  "Phyŏngan-namdo_KP",
+  "Phyŏngyang_KP",
+  "Rasŏn_KP",
+  "Ryanggang_KP"
+ ],
+ "Khas_Kshatriya_Chhetri_Nepal_(n=24)": [
+  "Bagmati_Pradesh_NP",
+  "Karnali_Pradesh_NP",
+  "Sudurpashchim_Pradesh_NP"
+ ],
+ "Khas_Brahmin_(Bahun)_Nepal_(n=35)": [
+  "Gandaki_Pradesh_NP",
+  "Koshi_Pradesh_NP",
+  "Lumbini_Pradesh_NP"
+ ],
+ "Madhesi_Brahmin_(n=1)": [
+  "Madhesh_Pradesh_NP"
+ ],
+ "Tibetan_Nepal_(n=1000)": [
+  "Bumthang_BT",
+  "Chhukha_BT",
+  "Chirang_BT",
+  "Daga_BT",
+  "Gasa_BT",
+  "Geylegphug_BT",
+  "Ha_BT",
+  "Lhuntshi_BT",
+  "Mongar_BT",
+  "Paro_BT",
+  "Pemagatsel_BT",
+  "Punakha_BT",
+  "Samchi_BT",
+  "Samdrup_Jongkhar_BT",
+  "Shemgang_BT",
+  "Tashi_Yangtse_BT",
+  "Tashigang_BT",
+  "Thimphu_BT",
+  "Tongsa_BT",
+  "Wangdi_Phodrang_BT"
+ ]
+}
